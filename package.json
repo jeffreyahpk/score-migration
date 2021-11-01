@@ -1,0 +1,17 @@
+{
+    "name": "migration",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+      "moment": "^2.29.1",
+      "mongoose": "^6.0.12",
+      "@phantasia/models": "1.0.26-p2e5"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
